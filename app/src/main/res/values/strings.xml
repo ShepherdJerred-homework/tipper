@@ -1,0 +1,11 @@
+<resources>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="app_name">Tipper</string>
+    <string name="bill">Bill</string>
+    <string name="tip_percent">Tip Percent</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="total_with_tip">Total with Tip</string>
+    <string name="_0_00">$0.00</string>
+</resources>
